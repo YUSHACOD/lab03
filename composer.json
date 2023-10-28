@@ -1,0 +1,16 @@
+{
+    "name": "company/utility",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Company\\Utility\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayush Paranjale",
+            "email": "ayushparanjale@gmail.com"
+        }
+    ],
+    "require": {}
+}
